@@ -1,0 +1,29 @@
+# Built application files
+*.apk
+*.apks
+*.aab
+/release/
+**/release/
+
+# Signing files
+*.jks
+*.keystore
+
+# Gradle, Kotlin and Build output
+.gradle
+.kotlin/
+/build
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+*.log
+
+# Local configuration
+local.properties
+/local.properties
+
+# IDE specific files
+*.iml
+/.idea/
+.DS_Store

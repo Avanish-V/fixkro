@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913697715735",
+    "project_id": "fixkro-237ec",
+    "storage_bucket": "fixkro-237ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913697715735:android:6a1bfb23bf6e59ec238e52",
+        "android_client_info": {
+          "package_name": "com.iotabuild.zippyhand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6clp5VU9kvgWC7P1oeRCErmLnLCKzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
